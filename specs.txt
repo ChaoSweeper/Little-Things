@@ -1,0 +1,501 @@
+
+
+-=-=-=-=-=-=- FFXIV Information -=-=-=-=-=-=-
+
+MyDocument	C:\Users\Chaos\OneDrive\Documents
+FINAL FANTASY XIV - A Realm Reborn	Language 1		Region 2
+ProxyEnable 0
+ProxyServer unspecified
+ProxyOverride unspecified
+
+
+-=-=-=-=-=-=- System Information -=-=-=-=-=-=-
+
+SYSTEM_OS	Windows 10 Pro 64-bit (6.2, Build 9200) (19041.vb_release.191206-1406)
+SYSTEM_CPU	Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz (12 CPUs), ~2.2GHz
+SYSTEM_CORE_NUM	SYSTEM_CORE_LOGIC 12  SYSTEM_CORE_PHYSICS 6
+SYSTEM_BIOS	1.05
+SYSTEM_LANGUAGE	English (Regional Setting: English)
+SYSTEM_MEMORY	16282.402MB
+SYSTEM_VIRTUAL_MEMORY	134217727.875MB
+SYSTEM_PAGE_FILE	35738.402MB
+SYSTEM_STORAGE	C:\    SYSTEM_HARDDISK_DRIVE    SYSTEM_TOTALDISC_SPACE 930.883GB    SYSTEM_FREEDISC_SPACE 314.477GB
+SYSTEM_DIRECTX_VERSION	DirectX 12
+SYSTEM_GRAPHICS	Intel(R) UHD Graphics 630
+SYSTEM_GRAPHICS_DEVICE	\\.\DISPLAY1
+SYSTEM_GRAPHICS_CHIP	Intel(R) UHD Graphics Family
+SYSTEM_GRAPHICS_MAKER	Intel Corporation
+SYSTEM_GRAPHICS_VRAM	128.000 MB
+SYSTEM_GRAPHICS_SHARED_VRAM	8141.201 MB
+SYSTEM_GRAPHICS_DAC	Internal
+SYSTEM_GRAPHICS_DISPLAY_MODE	1920 x 1080 (32 bit) (144Hz)
+SYSTEM_GRAPHICS_DRIVER	C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igdumdim64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igd12umd64.dll
+SYSTEM_GRAPHICS_DRIVER_VERSION	26.20.0100.7261
+SYSTEM_GRAPHICS_DRIVER_DATE	9/24/2019 20:00:00
+SYSTEM_GRAPHICS_DRIVER_LANGUAGE	English
+3.0
+SYSTEM_GRAPHICS_PIXEL_SHADER	3.0
+SYSTEM_GRAPHICS_VERTEX_TEXTURE	SYSTEM_SUPPORT
+SYSTEM_GRAPHICS	NVIDIA GeForce RTX 2080 with Max-Q Design
+SYSTEM_GRAPHICS_DEVICE	\\.\DISPLAY4
+SYSTEM_GRAPHICS_CHIP	NVIDIA GeForce RTX 2080 with Max-Q Design
+SYSTEM_GRAPHICS_MAKER	NVIDIA
+SYSTEM_GRAPHICS_VRAM	8010.000 MB
+SYSTEM_GRAPHICS_SHARED_VRAM	8141.201 MB
+SYSTEM_GRAPHICS_DAC	Integrated RAMDAC
+SYSTEM_GRAPHICS_DISPLAY_MODE	1920 x 1080 (32 bit) (165Hz)
+SYSTEM_GRAPHICS_DRIVER	C:\WINDOWS\System32\DriverStore\FileRepository\nvrzi.inf_amd64_d8a725bfc2eed7a4\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvrzi.inf_amd64_d8a725bfc2eed7a4\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvrzi.inf_amd64_d8a725bfc2eed7a4\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvrzi.inf_amd64_d8a725bfc2eed7a4\nvldumdx.dll
+SYSTEM_GRAPHICS_DRIVER_VERSION	27.21.0014.6611
+SYSTEM_GRAPHICS_DRIVER_DATE	4/11/2021 20:00:00
+SYSTEM_GRAPHICS_DRIVER_LANGUAGE	English
+3.0
+SYSTEM_GRAPHICS_PIXEL_SHADER	3.0
+SYSTEM_GRAPHICS_VERTEX_TEXTURE	SYSTEM_SUPPORT
+SYSTEM_SOUND	Headphones (Arctis 7 Game)
+SYSTEM_SOUND_DEVICE_ID	{EEF8EE01-432E-4988-ADCB-56D7F9A97876}
+SYSTEM_SOUND_DEVICE_NAME	USBAUDIO.sys
+SYSTEM_SOUND_DRIVER_VERSION	10.0.19041.789
+SYSTEM_SOUND_DRIVER_LANGUAGE	English
+SYSTEM_SOUND_DRIVER_DATE	1/28/2021 20:00:00
+SYSTEM_SOUND	Headset Earphone (Arctis 7 Chat)
+SYSTEM_SOUND_DEVICE_ID	{1BF72F81-0BE2-4817-8370-0ED1D1F29AD5}
+SYSTEM_SOUND_DEVICE_NAME	USBAUDIO.sys
+SYSTEM_SOUND_DRIVER_VERSION	10.0.19041.789
+SYSTEM_SOUND_DRIVER_LANGUAGE	English
+SYSTEM_SOUND_DRIVER_DATE	1/28/2021 20:00:00
+SYSTEM_SOUND	Speakers (Realtek(R) Audio)
+SYSTEM_SOUND_DEVICE_ID	{926B22C4-5AD7-4065-A6B3-3748EF079243}
+SYSTEM_SOUND_DEVICE_NAME	
+SYSTEM_SOUND_DRIVER_VERSION	6.0.1.8586
+SYSTEM_SOUND_DRIVER_LANGUAGE	
+SYSTEM_SOUND_DRIVER_DATE	12/3/2018 20:00:00
+SYSTEM_SOUND	VG278 (NVIDIA High Definition Audio)
+SYSTEM_SOUND_DEVICE_ID	{E053AEAD-16C4-4BFB-8185-0F0861851A94}
+SYSTEM_SOUND_DEVICE_NAME	nvhda64v.sys
+SYSTEM_SOUND_DRIVER_VERSION	1.3.38.40
+SYSTEM_SOUND_DRIVER_LANGUAGE	English
+SYSTEM_SOUND_DRIVER_DATE	10/15/2020 20:00:00
+SYSTEM_INPUT	{6F1D2B60-D5A0-11CF-BFC7444553540000}
+SYSTEM_INPUT_NAME	Mouse
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 3  SYSTEM_GAMEPAD_BUTTON 5  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{6F1D2B61-D5A0-11CF-BFC7444553540000}
+SYSTEM_INPUT_NAME	Keyboard
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 128  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{45A319D0-6E09-11EB-8016444553540000}
+SYSTEM_INPUT_NAME	Razer Blade
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 1  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F495A8C0-6E06-11EB-8001444553540000}
+SYSTEM_INPUT_NAME	USB DEVICE
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F495A8C0-6E06-11EB-8002444553540000}
+SYSTEM_INPUT_NAME	Wired Gaming Mouse
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 24  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F4995240-6E06-11EB-8004444553540000}
+SYSTEM_INPUT_NAME	Wired Gaming Mouse
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F4995240-6E06-11EB-8005444553540000}
+SYSTEM_INPUT_NAME	Wired Gaming Mouse
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49A1590-6E06-11EB-8006444553540000}
+SYSTEM_INPUT_NAME	Wired Gaming Mouse
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{45A40430-6E09-11EB-8017444553540000}
+SYSTEM_INPUT_NAME	Razer Blade
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 573  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49A63B0-6E06-11EB-800B444553540000}
+SYSTEM_INPUT_NAME	SteelSeries Arctis 7
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 5  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49A63B0-6E06-11EB-800D444553540000}
+SYSTEM_INPUT_NAME	HIDI2C Device
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49A63B0-6E06-11EB-800E444553540000}
+SYSTEM_INPUT_NAME	SteelSeries Arctis 7
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{45A45250-6E09-11EB-8018444553540000}
+SYSTEM_INPUT_NAME	Razer Blade
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 3  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49CD4B0-6E06-11EB-8013444553540000}
+SYSTEM_INPUT_NAME	HIDI2C Device
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 0  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{45A47960-6E09-11EB-8019444553540000}
+SYSTEM_INPUT_NAME	Razer Blade
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 1024  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49A63B0-6E06-11EB-8007444553540000}
+SYSTEM_INPUT_NAME	USB DEVICE
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 1  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{45A4C780-6E09-11EB-801A444553540000}
+SYSTEM_INPUT_NAME	Razer Blade
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 1  SYSTEM_GAMEPAD_FOV 0
+SYSTEM_INPUT	{F49A63B0-6E06-11EB-8008444553540000}
+SYSTEM_INPUT_NAME	USB DEVICE
+SYSTEM_INPUT_REMARKS	SYSTEM_GAMEPAD_AXIS 0  SYSTEM_GAMEPAD_BUTTON 8192  SYSTEM_GAMEPAD_FOV 0
+
+
+-=-=-=-=-=-=- Application Information -=-=-=-=-=-=-
+
+FFXIVLauncher
+BlueStacks
+Plex
+Langrisser
+Settings
+Settings
+Microsoft Store
+Microsoft Text Input Application
+Microsoft Store
+Eternal Temple Scylla 65 Action Guide Chart : langrisser — Mozilla Firefox
+
+
+-=-=-=-=-=-=- Install Information -=-=-=-=-=-=-
+
+Visual Studio Community 2019 (2)
+Visual Studio Build Tools 2019
+MSI Afterburner 4.6.2
+Battle.net
+Google Chrome
+Microsoft Edge
+Microsoft Edge Update
+Microsoft Edge WebView2 Runtime
+OBS Studio
+Overwolf
+Plex
+Postbox 7.0.47 (x86 en-US)
+Razer Cortex
+Razer Synapse
+RivaTuner Statistics Server 7.2.3
+Steam
+Heaven Benchmark version 4.0
+WinSCP 5.17.10
+World of Warcraft
+World of Warcraft Classic
+Intel(R) Wireless Bluetooth(R)
+vs_communitymsi
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29913
+Universal CRT Redistributable
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Windows SDK Desktop Tools arm64
+Windows IoT Extension SDK
+Microsoft Visual C++ 2019 X86 Debug Runtime - 14.28.29913
+WinRT Intellisense UAP - en-us
+ENE_MousePad_HAL
+UE4 Prerequisites (x64)
+Windows SDK for Windows Store Apps DirectX x86 Remote
+icecap_collectionresourcesx64
+WinRT Intellisense PPI - en-us
+Windows SDK Desktop Libs x64
+Windows SDK Desktop Tools x86
+Windows SDK for Windows Store Apps Libs
+WinRT Intellisense IoT - Other Languages
+Windows App Certification Kit SupportedApiList x86
+vs_minshellinteropmsi
+Windows SDK for Windows Store Apps Contracts
+Windows SDK Desktop Libs arm
+WinAppDeploy
+FINAL FANTASY XIV ONLINE
+Windows SDK for Windows Store Apps Metadata
+Windows SDK Facade Windows WinMD Versioned
+Windows SDK DirectX x86 Remote
+WinRT Intellisense IoT - en-us
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+icecap_collectionresources
+GitHub CLI
+Windows SDK Desktop Headers x86
+Tableau Prep Builder 2021.1 (21.13.21.0326.1015)
+Tableau 2021.1 (20211.21.0320.1853)
+Windows SDK Modern Non-Versioned Developer Tools
+Windows SDK Redistributables
+WinRT Intellisense Mobile - en-us
+Windows Software Development Kit - Windows 10.0.19041.685
+Windows IoT Extension SDK Contracts
+Windows SDK for Windows Store Apps Tools
+Windows SDK Desktop Headers arm
+Glorious Model D Software
+Universal CRT Extension SDK
+ENE_X-JMI_HAL
+ENE_DRAM_RGB_AIO
+TypeScript SDK
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29913
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40649
+Windows Team Extension SDK Contracts
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660
+vs_minshellmsi
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29913
+Windows App Certification Kit x64
+Intel(R) Dynamic Platform and Thermal Framework
+Universal CRT Headers Libraries and Sources
+vs_vswebprotocolselectormsi
+vs_filehandler_amd64
+Windows Mobile Extension SDK
+Microsoft System CLR Types for SQL Server 2019 CTP2.2
+Langrisser version 1.20.0
+SDK ARM Redistributables
+Windows Mobile Extension SDK Contracts
+MSI Development Tools
+Windows SDK
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660
+Windows SDK Desktop Libs x86
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29913
+WinRT Intellisense UAP - Other Languages
+Overwolf.Setup.VC100CRTx86.Dist
+TechPowerUp GPU-Z
+Windows SDK for Windows Store Apps Headers
+Windows SDK ARM Desktop Tools
+Windows SDK Desktop Libs arm64
+vs_communitymsires
+Python Launcher
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+WD_BLACK AN1500
+WD_BLACK D50
+Windows Desktop Extension SDK Contracts
+Windows SDK EULA
+Universal CRT Redistributable
+Windows SDK for Windows Store Apps
+VS Immersive Activate Helper
+Universal General MIDI DLS Extension SDK
+Adobe Acrobat Reader DC
+vs_devenvmsi
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+WinRT Intellisense Desktop - Other Languages
+Windows SDK Signing Tools
+vs_FileTracker_Singleton
+WinRT Intellisense Desktop - en-us
+Universal CRT Tools x86
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+vcpp_crt.redist.clickonce
+Windows SDK Desktop Headers x64
+Windows SDK Desktop Headers arm64
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual Studio Setup Configuration
+icecap_collection_neutral
+Math Inspector version 0.9.1
+Windows Team Extension SDK
+Microsoft .NET Framework 4 Multi-Targeting Pack
+Update for  (KB2504637)
+ENE IO Driver
+vs_filehandler_x86
+vs_Graphics_Singletonx86
+Windows Desktop Extension SDK
+Windows SDK AddOn
+vs_tipsmsi
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660
+Microsoft Visual Studio Setup WMI Provider
+Kits Configuration Installer
+MSI SDK
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+vs_minshellmsires
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Windows SDK Desktop Tools x64
+Windows SDK Modern Versioned Developer Tools
+SDK ARM Additions
+Intel(R) Chipset Device Software
+ENE_EHD_M2_HAL
+WinRT Intellisense PPI - Other Languages
+Windows SDK for Windows Store Managed Apps Libs
+Bitwarden
+Vortex
+Anaconda3 2020.11 (Python 3.8.5 64-bit)
+BlueStacks 5 Beta
+CPUID HWMonitor 1.43
+Git version 2.31.1
+HakuNeko Desktop
+Mozilla Firefox 88.0 (x64 en-US)
+Mozilla Maintenance Service
+Microsoft 365 - en-us
+Destiny 2
+Neverwinter
+EVERSPACE™ 2
+War Thunder
+SoulWorker
+OUTRIDERS
+Albion Online
+Valheim
+Singularity: Tactics Arena
+SteelSeries Engine 3.20.0
+VLC media player
+WinRAR 6.00 (64-bit)
+WD_BLACK AN1500
+Python 3.8.7 Core Interpreter (64-bit)
+NVIDIA Nsight Compute 2020.3.1
+PuTTY release 0.74 (64-bit)
+ENE_DRAM_RGB_AIO
+Intel(R) Chipset Device Software
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+DiagnosticsHub_CollectionService
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649
+Python 3.8.7 Development Libraries (64-bit)
+ENE_X-JMI_HAL
+ENE_EHD_M2_HAL
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+psqlODBC_x64
+Python 3.8.7 pip Bootstrap (64-bit)
+Python 3.8.7 Test Suite (64-bit)
+Python 3.8.7 Tcl/Tk Support (64-bit)
+HLJPSS
+Python 3.8.7 Standard Library (64-bit)
+NVIDIA Nsight Visual Studio Edition 2020.3.1.21012
+Python 3.8.7 Utility Scripts (64-bit)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.28.29913
+Microsoft Visual Studio Installer
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.28.29913
+Python 3.8.7 Add to Path (64-bit)
+NVIDIA Nsight Systems 2020.4.3
+Application Verifier x64 External Package
+Microsoft System CLR Types for SQL Server 2019 CTP2.2
+Tukui Client
+Office 16 Click-to-Run Licensing Component
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Localization Component
+Microsoft Update Health Tools
+ENE_MousePad_HAL
+Microsoft Git Credential Manager for Windows 1.20.0
+VS Script Debugging Common
+PowerShell 7-x64
+Tableau 2021.1 (20211.21.0320.1853)
+Python 3.8.7 Documentation (64-bit)
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649
+CUBLAS Runtime
+CUBLAS Development
+NVIDIA CUDA Development 11.2
+NVIDIA CUDA Documentation 11.2
+CUDART Runtime
+NVIDIA CUDA Runtime 11.2
+CUDA Toolkit
+${{arpDisplayName}}
+CUFFT Development
+cuobjdump
+CUPTI
+CURAND Runtime
+CURAND Development
+CUSOLVER Runtime
+CUSOLVER Development
+CUSPARSE Runtime
+CUSPARSE Development
+cuxxfilt
+Demo Suite
+NVIDIA Graphics Driver 466.11
+NVIDIA GeForce Experience 3.22.0.32
+NVIDIA Optimus Update 38.0.7.0
+NVIDIA PhysX System Software 9.19.0218
+NVIDIA Update 38.0.7.0
+CUDA Documentation
+NVIDIA FrameView SDK 1.1.4923.29781331
+NVIDIA SHIELD Streaming
+NVIDIA HD Audio Driver 1.3.38.40
+NVIDIA Install Application
+MEMCHECK
+NPP Runtime
+NPP Development
+NVIDIA CUDA Nsight NVTX 11.2
+NVIDIA ABHub
+NVIDIA Backend
+nvcc
+NVIDIA Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVAPI Monitor plugin for NvContainer
+NVIDIA NetworkService Container
+NVIDIA Session Container
+NVIDIA User Container
+Disassembler
+NVJPEG Runtime
+NVJPEG Development
+NVML Development
+NvModuleTracker
+NVIDIA NodeJS
+NVIDIA Watchdog Plugin for NvContainer
+CUDA Profiler Tools
+nvprune
+NVRTC Runtime
+NVRTC Development
+NVIDIA Telemetry Client
+NVTX Development
+NVIDIA Virtual Host Controller
+Occupancy Calculator
+Nvidia Share
+NVIDIA CUDA Samples 11.2
+Compute Sanitizer
+NVIDIA ShadowPlay 3.22.0.32
+NVIDIA SHIELD Wireless Controller Driver
+NVIDIA Update Core
+NVIDIA USBC Driver 1.46.831.832
+NVIDIA Virtual Audio 4.13.0.0
+Visual Profiler
+NVIDIA CUDA Visual Studio Integration 11.2
+NVIDIA Tools Extension SDK (NVTX) - 64 bit
+vs_Graphics_Singletonx64
+WD_BLACK D50
+VS JIT Debugger
+Universal CRT Tools x64
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Tableau Prep Builder 2021.1 (21.13.21.0326.1015)
+Windows App Certification Kit Native Components
+icecap_collection_x64
+UE4 Prerequisites (x64)
+Microsoft ODBC Driver 17 for SQL Server
+Python 3.8.7 Executables (64-bit)
+Microsoft Visual Studio Code
+Windows SDK DirectX x64 Remote
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.28.29913
+
+
+-=-=-=-=-=-=- Proccess Information -=-=-=-=-=-=-
+
+C:\Langrisser\client\Langrisser.exe	00005220
+C:\Langrisser\client\Langrisser_Data\Plugins\ZFGameBrowser.exe	000047CC
+C:\Program Files (x86)\Battle.net\Battle.net.exe	00003CF4
+C:\Program Files (x86)\MSI\One Dragon Center\True Color\MSI.True Color.exe	00002080
+C:\Program Files (x86)\MSI\One Dragon Center\VoiceControl\VoiceControlEngine.exe	00002668
+C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe	00002F18
+C:\Program Files (x86)\Razer\Razer Cortex\Cef\CefSharp.BrowserSubprocess.exe	00003E08
+C:\Program Files (x86)\Razer\Razer Cortex\FPSRunner32.exe	00004028
+C:\Program Files (x86)\Razer\Razer Cortex\PMRunner32.exe	00002854
+C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe	00003CB4
+C:\Program Files (x86)\Razer\Razer Cortex\x64\FPSRunner64.exe	00004384
+C:\Program Files (x86)\Razer\Razer Cortex\x64\PMRunner64.exe	00004120
+C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe	00002DA8
+C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe	00003A04
+C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe	00002538
+C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe	000038E8
+C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\boot\ffxivlauncher.exe	00004BA0
+C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\boot\ffxivsysinfo64.exe	00004184
+C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe	00000B54
+C:\Program Files (x86)\Steam\steam.exe	000034C8
+C:\Program Files\BlueStacks_arabica\BstkSVC.exe	00005298
+C:\Program Files\BlueStacks_arabica\HD-Player.exe	000048F8
+C:\Program Files\Mozilla Firefox\firefox.exe	00000F08
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe	00001DDC
+C:\Program Files\Plex\Plex\Plex.exe	00002650
+C:\Program Files\Plex\Plex\QtWebEngineProcess.exe	0000217C
+C:\Program Files\SteelSeries\SteelSeries Engine 3\SteelSeriesEngine3.exe	00003BAC
+C:\Program Files\WindowsApps\AudibleInc.AudibleforWindowsPhone_10.5.67.0_x64__xns73kv1ymhp2\AudibleRT.WindowsPhone.exe	00003780
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20120.4004.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe	00002EAC
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_12104.1001.1.0_x64__8wekyb3d8bbwe\WinStore.App.exe	0000252C
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.621.4142.0_x64__8wekyb3d8bbwe\GameBar.exe	00001288
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.621.4142.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe	000008B4
+C:\ProgramData\Battle.net\Agent\Agent.7342\Agent.exe	00003ABC
+C:\Users\Chaos\AppData\Local\Discord\app-1.0.9001\Discord.exe	00003E80
+C:\Users\Chaos\AppData\Local\Microsoft\OneDrive\21.062.0328.0001\FileCoAuth.exe	000049B4
+C:\Users\Chaos\AppData\Local\Microsoft\OneDrive\OneDrive.exe	00003608
+C:\WINDOWS\Explorer.EXE	00002328
+C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_405d2b89ed51239d\igfxEM.exe	000025B0
+C:\WINDOWS\system32\ApplicationFrameHost.exe	00002348
+C:\WINDOWS\system32\DllHost.exe	0000116C
+C:\WINDOWS\system32\SearchFilterHost.exe	00001BB4
+C:\WINDOWS\system32\SettingSyncHost.exe	00002B28
+C:\WINDOWS\system32\conhost.exe	00003AC8
+C:\WINDOWS\system32\ctfmon.exe	000021EC
+C:\WINDOWS\system32\sihost.exe	00001D28
+C:\WINDOWS\system32\svchost.exe	000042E0
+C:\WINDOWS\system32\taskhostw.exe	000020C0
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe	00001DA8
+C:\Windows\System32\CompPkgSrv.exe	00000DC8
+C:\Windows\System32\RtkAudUService64.exe	000034CC
+C:\Windows\System32\RuntimeBroker.exe	00001BC0
+C:\Windows\System32\SecurityHealthSystray.exe	000036C4
+C:\Windows\System32\oobe\UserOOBEBroker.exe	00002A94
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe	00002D28
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe	0000289C
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe	00002604
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe	000031C4
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe	00002A0C
